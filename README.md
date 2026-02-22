@@ -46,3 +46,4 @@ Python | PyTorch | TensorFlow | scikit-learn | FastAPI | Docker | SQL | React | 
 
 LinkedIn: linkedin.com/in/latifa-sassi-3a67191a9
 Email: latifa.sassi.work@gmail.com
+> Note: Some earlier projects (2020–2023) were originally developed under a university-linked GitHub account which is no longer accessible. They are currently being reconstructed and documented here.
